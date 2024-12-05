@@ -135,4 +135,14 @@ Once the FastAPI application is running, access the API by visiting:
 http://127.0.0.1:8000/docs
 ```
 
----
+## Contributing
+
+Contributions are welcome! Please create a new branch for any feature or bug fix and submit a pull request for review.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For any questions or issues, feel free to reach out at: me@efipan.uk
